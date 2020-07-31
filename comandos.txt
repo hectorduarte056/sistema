@@ -1,0 +1,3 @@
+INVENTARIO COMPLETO
+
+SELECT SUM(stock*precio_compra) as resultado FROM productos
